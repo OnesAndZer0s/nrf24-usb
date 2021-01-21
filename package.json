@@ -1,0 +1,20 @@
+{
+  "name": "nrf24-usb",
+  "version": "1.0.01",
+  "description": "Port of nrf24.py, used in MouseJack, basic access to an nRF24 radio dongle",
+  "main": "nrf24.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mousejack",
+    "jackit",
+    "nrf24"
+  ],
+  "author": "OnesAndZer0s",
+  "license": "ISC",
+  "dependencies": {
+    "usb": "^1.6.3"
+  },
+  "devDependencies": {}
+}
